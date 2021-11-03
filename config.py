@@ -1,6 +1,6 @@
-bot_token = '1425844515:AAEobH_3M8XUjxoASZGaayE2-rYryns_4yE'
+bot_token = '2054038321:AAHrWbcc99iRFT2DMZan33hyOzfhCNwQqK4'
 
-admin = [1292999001]
+admin = [1719045064]
 
-#admin = [1292999001]
+#admin = [1719045064]
 # 697342273
